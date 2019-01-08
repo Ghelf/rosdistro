@@ -1031,6 +1031,7 @@ python-cwiid:
   gentoo: ['app-misc/cwiid[python]']
   rhel: [cwiid]
   ubuntu: [python-cwiid]
+  osx:[python-cwiid]
 python-dateutil:
   arch: [python2-dateutil]
   debian: [python-dateutil]
